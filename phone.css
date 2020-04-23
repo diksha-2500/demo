@@ -1,0 +1,32 @@
+#navbar{
+      flex-direction: column;
+}
+nav ul li a{
+      margin: 0px 0px;
+      padding: 0px 0px;
+}
+/* Home section */
+#home{
+height: 778px;
+padding: 0px 0px;
+}
+#home p{
+    text-align: center;  
+}
+#home h1{
+      font-size: 1.8rem;
+      text-align: center;
+}
+.h-primary{
+      padding: 1px;
+      font-size: 1.8rem;
+}
+#home::before{
+      height: 860px;  
+}
+#result{
+flex-direction: column;
+}
+#result .box{
+      width: 95%;
+}
